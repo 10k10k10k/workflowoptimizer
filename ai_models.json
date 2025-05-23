@@ -1,0 +1,1989 @@
+[
+  {
+    "ModelName": "ChatGPT",
+    "DeveloperCompany": "OpenAI",
+    "WebsiteURL": "https://chat.openai.com",
+    "PrimaryCategories": [
+      "Content Generation",
+      "Q&A (Question & Answer)",
+      "Research",
+      "Conversational AI",
+      "Image Generation",
+      "Code Generation",
+      "Code Debugging",
+      "Code Review",
+      "Data Analysis"
+    ],
+    "BriefDescription": "A versatile AI assistant capable of a wide range of tasks from text and image generation to coding and data analysis.",
+    "KeyFeatures": [
+      "Multimodal capabilities (text, image, voice)",
+      "Conversational dialogue",
+      "Access to GPT-4o and GPT-4o mini (free tier)",
+      "Integrated image generation (via DALL·E 3)",
+      "Code interpretation and assistance",
+      "Real-time interactions"
+    ],
+    "InputDataTypes": [
+      "text",
+      "image",
+      "audio"
+    ],
+    "OutputDataTypes": [
+      "text",
+      "image",
+      "code",
+      "chart"
+    ],
+    "FreeTierDetails": "Limited access to GPT-4o and unlimited ChatGPT-4o mini. Includes 2 free image generations per day.",
+    "FreeTierLimitations": "Limited model usage (GPT-4o), usage caps on features like image generation, potential prompt throttling and model degradation (to GPT-3.5) during high traffic on the free version.",
+    "PricingStructure": "Subscription-based with pay-as-you-go API access.",
+    "PricingExamples": "Plus plan at $20/month; Pro plan at $200/month; API pricing is token-based (varies by model).",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "ChatGPT Plus",
+        "price": "$20/month",
+        "features": "Higher usage limits, access to GPT-4 and other advanced models/features."
+      },
+      {
+        "name": "API Access",
+        "price": "Token-based (varies)",
+        "features": "Pay-as-you-go metered basis for scalable usage."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "User-friendly web interface and mobile app, API for developers.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 20
+  },
+  {
+    "ModelName": "Claude",
+    "DeveloperCompany": "Anthropic",
+    "WebsiteURL": "https://www.anthropic.com/",
+    "PrimaryCategories": [
+      "Content Generation",
+      "Q&A (Question & Answer)",
+      "Code Generation",
+      "Code Review",
+      "Text Analysis"
+    ],
+    "BriefDescription": "An AI assistant known for its strong coding support and conversational tone.",
+    "KeyFeatures": [
+      "Strong coding capabilities",
+      "Warm conversational tone",
+      "Extended thinking mode for enhanced reasoning"
+    ],
+    "InputDataTypes": [
+      "text"
+    ],
+    "OutputDataTypes": [
+      "text",
+      "code"
+    ],
+    "FreeTierDetails": "Free tier available with usage limits.",
+    "FreeTierLimitations": "Usage limits on the free tier. Restricted API access on the free tier.",
+    "PricingStructure": "Subscription-based.",
+    "PricingExamples": "Pro plan at $20/month.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Pro plan",
+        "price": "$20/month",
+        "features": "Higher usage limits."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Web interface.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 20
+  },
+  {
+    "ModelName": "Google Gemini",
+    "DeveloperCompany": "Google",
+    "WebsiteURL": "https://google.ai/",
+    "PrimaryCategories": [
+      "Content Generation",
+      "Q&A (Question & Answer)",
+      "Data Analysis",
+      "Code Generation",
+      "Video Analysis"
+    ],
+    "BriefDescription": "An AI model integrated within the Google ecosystem, known for its long context window and multimodal capabilities.",
+    "KeyFeatures": [
+      "Strong integration in Google ecosystem",
+      "Long context window (up to 1 million tokens)",
+      "Video summaries and generation capabilities",
+      "Enhanced reasoning abilities"
+    ],
+    "InputDataTypes": [
+      "text",
+      "video",
+      "data files (potentially in paid tiers)"
+    ],
+    "OutputDataTypes": [
+      "text",
+      "video",
+      "code",
+      "analysis results"
+    ],
+    "FreeTierDetails": "Basic free tier available with limited use.",
+    "FreeTierLimitations": "Limited usage often resulting in being cut off after a few queries. Uses a token-based pricing model even in the free/limited use.",
+    "PricingStructure": "Hybrid model with limited free use and token-based or subscription pricing.",
+    "PricingExamples": "Gemini Advanced at $19.99/month for heavier tasks. Token-based pricing for API access.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Gemini Advanced",
+        "price": "$19.99/month",
+        "features": "For heavier tasks."
+      },
+      {
+        "name": "API Access",
+        "price": "Token-based",
+        "features": "Extended use."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Web interface, integrated into Google products, API access.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 20
+  },
+  {
+    "ModelName": "DeepSeek AI",
+    "DeveloperCompany": "DeepSeek AI",
+    "WebsiteURL": "https://www.deepseek.ai/",
+    "PrimaryCategories": [
+      "Code Generation",
+      "Code Analysis",
+      "Research",
+      "Text Generation"
+    ],
+    "BriefDescription": "An open-source AI model and platform known for its cost-effectiveness and strength in coding and research tasks.",
+    "KeyFeatures": [
+      "Open-source models",
+      "Cost-efficient API access",
+      "Strong coding and analysis capabilities",
+      "Excels at handling long-form content"
+    ],
+    "InputDataTypes": [
+      "text"
+    ],
+    "OutputDataTypes": [
+      "text",
+      "code"
+    ],
+    "FreeTierDetails": "Free to use on-site models. R1 model excels at understanding and handling long-form content.",
+    "FreeTierLimitations": "Limited on-site usage compared to paid API access.",
+    "PricingStructure": "Primarily pay-as-you-go API with cheap access.",
+    "PricingExamples": "Cheap API access (specific rates not detailed in provided text).",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "API Access",
+        "price": "Cheap",
+        "features": "Extended and scalable use."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Web interface, API access.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 20
+  },
+  {
+    "ModelName": "Grok",
+    "DeveloperCompany": "X (Elon Musk)",
+    "WebsiteURL": "https://x.com",
+    "PrimaryCategories": [
+      "Content Generation",
+      "Q&A (Question & Answer)",
+      "Research"
+    ],
+    "BriefDescription": "An AI model integrated with the X platform, providing real-time information access.",
+    "KeyFeatures": [
+      "Access to real-time posts from X (Twitter)",
+      "Unhinged voice conversations"
+    ],
+    "InputDataTypes": [
+      "text"
+    ],
+    "OutputDataTypes": [
+      "text"
+    ],
+    "FreeTierDetails": "Currently free (implied temporary status) with X Premium+ subscription.",
+    "FreeTierLimitations": "Requires X Premium+ subscription ($40/month) to access. Less curated and inconsistent outputs compared to other models.",
+    "PricingStructure": "Access bundled with X Premium+ subscription.",
+    "PricingExamples": "Requires $40/month X Premium+ subscription.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "X Premium+ Subscription",
+        "price": "$40/month",
+        "features": "Access to Grok and other X Premium+ features."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Web interface (currently browser mode only).",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 40
+  },
+  {
+    "ModelName": "Qwen",
+    "DeveloperCompany": "Alibaba",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Code Generation",
+      "Code Review",
+      "Text Generation",
+      "Mathematics"
+    ],
+    "BriefDescription": null,
+    "KeyFeatures": [
+      "Strong mathematical reasoning",
+      "Strong coding capabilities",
+      "Pretrained on over 20 trillion tokens",
+      "Qwen2.5-Max designed for low-latency, high-efficiency tasks"
+    ],
+    "InputDataTypes": [
+      "text"
+    ],
+    "OutputDataTypes": [
+      "text",
+      "code"
+    ],
+    "FreeTierDetails": null,
+    "FreeTierLimitations": null,
+    "PricingStructure": null,
+    "PricingExamples": null,
+    "PaidOptionsAfterFree": [],
+    "PerformanceMetrics": null,
+    "EaseOfUse": null,
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 0
+  },
+  {
+    "ModelName": "Llama",
+    "DeveloperCompany": "Meta",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Text Generation",
+      "Image Analysis"
+    ],
+    "BriefDescription": null,
+    "KeyFeatures": [
+      "Open-source",
+      "Multimodal capabilities (text and image)",
+      "Longer context window",
+      "Optimized transformer architecture"
+    ],
+    "InputDataTypes": [
+      "text",
+      "image"
+    ],
+    "OutputDataTypes": [
+      "text",
+      "analysis results"
+    ],
+    "FreeTierDetails": "Open-source and free to use.",
+    "FreeTierLimitations": null,
+    "PricingStructure": "Free (open-source).",
+    "PricingExamples": null,
+    "PaidOptionsAfterFree": [],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Requires technical setup for deployment.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 0
+  },
+  {
+    "ModelName": "Mistral",
+    "DeveloperCompany": "Mistral AI",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Text Generation"
+    ],
+    "BriefDescription": null,
+    "KeyFeatures": [
+      "Open-source",
+      "Latency-optimized",
+      "High-efficiency for low-latency tasks"
+    ],
+    "InputDataTypes": [
+      "text"
+    ],
+    "OutputDataTypes": [
+      "text"
+    ],
+    "FreeTierDetails": "Open-source and free to use.",
+    "FreeTierLimitations": null,
+    "PricingStructure": "Free (open-source).",
+    "PricingExamples": null,
+    "PaidOptionsAfterFree": [],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Requires technical setup for deployment.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 0
+  },
+  {
+    "ModelName": "Midjourney",
+    "DeveloperCompany": "Midjourney Team",
+    "WebsiteURL": "https://midjourney.com/",
+    "PrimaryCategories": [
+      "Image Generation"
+    ],
+    "BriefDescription": "An AI platform excelling in artistic and high-quality visual outputs.",
+    "KeyFeatures": [
+      "Artistic and high-quality visual outputs",
+      "Rich textures and colors",
+      "Visually appealing and professional images"
+    ],
+    "InputDataTypes": [
+      "text"
+    ],
+    "OutputDataTypes": [
+      "image"
+    ],
+    "FreeTierDetails": "Currently suspended (formerly limited generations). Occasional free trial windows.",
+    "FreeTierLimitations": "No standard free tier available.",
+    "PricingStructure": "Subscription-based.",
+    "PricingExamples": "Premium plans starting at $10/month offering ~200 images/month with commercial usage rights.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Premium Plans",
+        "price": "From $10/month",
+        "features": "Starting at ~200 images/month with commercial usage rights."
+      },
+      {
+        "name": "GPU Time",
+        "price": null,
+        "features": "Purchase additional GPU time."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Web app and Discord integration.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 10
+  },
+  {
+    "ModelName": "Reve Image 1.0",
+    "DeveloperCompany": "Reve AI",
+    "WebsiteURL": "https://reve.ai/",
+    "PrimaryCategories": [
+      "Image Generation"
+    ],
+    "BriefDescription": "An AI image generation platform known for best-in-class prompt adherence.",
+    "KeyFeatures": [
+      "Best-in-class prompt adherence",
+      "Detailed and complex prompt fidelity"
+    ],
+    "InputDataTypes": [
+      "text"
+    ],
+    "OutputDataTypes": [
+      "image"
+    ],
+    "FreeTierDetails": "100 starting credits + 20 daily free credits.",
+    "FreeTierLimitations": "Limited daily credits.",
+    "PricingStructure": "Credit-based.",
+    "PricingExamples": "$5 for 500 credits.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Credit Packs",
+        "price": "$5 for 500 credits",
+        "features": "Purchase credit packs for higher volume."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Web app.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 5
+  },
+  {
+    "ModelName": "Ideogram",
+    "DeveloperCompany": "Ideogram AI",
+    "WebsiteURL": "https://ideogram.ai/",
+    "PrimaryCategories": [
+      "Image Generation"
+    ],
+    "BriefDescription": "An AI image generation platform outstanding in generating accurate text within images.",
+    "KeyFeatures": [
+      "Outstanding accuracy in generating text within images",
+      "Strong batch processing",
+      "Design canvas features"
+    ],
+    "InputDataTypes": [
+      "text"
+    ],
+    "OutputDataTypes": [
+      "image"
+    ],
+    "FreeTierDetails": "Limited free plan with 10 credits/week.",
+    "FreeTierLimitations": "Limited credits, basic features, and wait times on the free tier.",
+    "PricingStructure": "Credit-based and subscription.",
+    "PricingExamples": "Paid plans start at $8/month for full-resolution downloads and 400 monthly priority credits.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Paid Plans",
+        "price": "From $8/month",
+        "features": "Full-resolution downloads, 400 monthly priority credits."
+      },
+      {
+        "name": "Credits",
+        "price": null,
+        "features": "Purchase credits for higher volume and priority generation."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Web app.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 8
+  },
+  {
+    "ModelName": "Stable Diffusion",
+    "DeveloperCompany": "Stability AI (originally)",
+    "WebsiteURL": "https://stability.ai/",
+    "PrimaryCategories": [
+      "Image Generation",
+      "Image Editing",
+      "Image-to-Image Translation"
+    ],
+    "BriefDescription": "A highly customizable and open-source diffusion model for image generation, widely integrated across various platforms.",
+    "KeyFeatures": [
+      "Highly customizable",
+      "Open-source",
+      "Widely integrated across multiple platforms"
+    ],
+    "InputDataTypes": [
+      "text",
+      "image"
+    ],
+    "OutputDataTypes": [
+      "image"
+    ],
+    "FreeTierDetails": "Platform dependent (many offer free credits) or free for local use (requires hardware).",
+    "FreeTierLimitations": "Free credits vary by platform; local use requires significant computing power.",
+    "PricingStructure": "Platform dependent (subscription, credit-based) or free (local use).",
+    "PricingExamples": "Varies by platform.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "FLUX.1 / Platform Paid Tiers / Credits",
+        "price": "Varies",
+        "features": "Use FLUX.1 or purchase platform credits for higher limits or more features."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Varies by platform (Web UI, API, requires coding for local).",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 0
+  },
+  {
+    "ModelName": "FLUX.1",
+    "DeveloperCompany": "Black Forest Labs",
+    "WebsiteURL": "https://flux1.ai/",
+    "PrimaryCategories": [
+      "Image Generation",
+      "Image Editing",
+      "Image-to-Image Translation"
+    ],
+    "BriefDescription": "An open-source alternative to Stable Diffusion with improved performance.",
+    "KeyFeatures": [
+      "Open-source",
+      "Improved performance compared to Stable Diffusion",
+      "Improved licensing"
+    ],
+    "InputDataTypes": [
+      "text",
+      "image"
+    ],
+    "OutputDataTypes": [
+      "image"
+    ],
+    "FreeTierDetails": "Platform dependent (many offer free credits) or free for local use (requires hardware).",
+    "FreeTierLimitations": "Free credits vary by platform; local use requires significant computing power.",
+    "PricingStructure": "Platform dependent (subscription, credit-based) or free (local use).",
+    "PricingExamples": "Varies by platform.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Platform Paid Tiers / Credits",
+        "price": "Varies",
+        "features": "Use alongside or as a replacement for Stable Diffusion on platforms or locally."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Varies by platform (Web UI, API, requires coding for local).",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 0
+  },
+  {
+    "ModelName": "Adobe Firefly",
+    "DeveloperCompany": "Adobe",
+    "WebsiteURL": "https://firefly.adobe.com/",
+    "PrimaryCategories": [
+      "Image Generation",
+      "Image Editing"
+    ],
+    "BriefDescription": "An AI image generation tool seamlessly integrated with Adobe creative suite, suitable for commercial-safe content.",
+    "KeyFeatures": [
+      "Seamless integration with Adobe creative suite (Photoshop, Express)",
+      "Commercial-safe licensing",
+      "Excellent for adding AI-generated content to existing photos"
+    ],
+    "InputDataTypes": [
+      "text",
+      "image"
+    ],
+    "OutputDataTypes": [
+      "image"
+    ],
+    "FreeTierDetails": "Limited free credits available.",
+    "FreeTierLimitations": "Usage limited by free credit amount.",
+    "PricingStructure": "Subscription-based with credit packs.",
+    "PricingExamples": "From $9.99/month for 2,000 credits/month. Photoshop subscription from $19.99/month includes 500 generative credits.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Firefly Subscription",
+        "price": "From $9.99/month",
+        "features": "Higher limits (e.g., 2,000 credits/month)."
+      },
+      {
+        "name": "Photoshop Subscription",
+        "price": "From $19.99/month",
+        "features": "Includes generative credits (e.g., 500)."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Web app and integrated into Adobe applications.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 10
+  },
+  {
+    "ModelName": "Recraft",
+    "DeveloperCompany": "Recraft AI",
+    "WebsiteURL": "https://recraft.ai/",
+    "PrimaryCategories": [
+      "Image Generation",
+      "Graphic Design"
+    ],
+    "BriefDescription": "An AI tool powerful for graphic design with features like style and color matching.",
+    "KeyFeatures": [
+      "Powerful for graphic design",
+      "Style and color matching",
+      "Product mockups",
+      "Export to multiple formats (PNG, SVG)"
+    ],
+    "InputDataTypes": [
+      "text"
+    ],
+    "OutputDataTypes": [
+      "image (PNG, SVG)"
+    ],
+    "FreeTierDetails": "50 credits per day with limited features.",
+    "FreeTierLimitations": "Limited daily credits and restricted features on the free tier.",
+    "PricingStructure": "Subscription-based with daily credits.",
+    "PricingExamples": "From $12/month for Basic plan with 1,000 credits.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Basic Plan",
+        "price": "From $12/month",
+        "features": "More credits (e.g., 1,000)."
+      },
+      {
+        "name": "Higher Paid Plans",
+        "price": null,
+        "features": "More credits and features."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Web app.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 12
+  },
+  {
+    "ModelName": "Synthesia",
+    "DeveloperCompany": "Synthesia",
+    "WebsiteURL": "https://www.synthesia.io/",
+    "PrimaryCategories": [
+      "Video Generation"
+    ],
+    "BriefDescription": "An AI platform favored for professional, polished talking head videos.",
+    "KeyFeatures": [
+      "Professional, polished talking head videos"
+    ],
+    "InputDataTypes": [
+      "text"
+    ],
+    "OutputDataTypes": [
+      "video"
+    ],
+    "FreeTierDetails": "36 minutes/year free, no credit card needed.",
+    "FreeTierLimitations": "Strict limit on free video generation time per year.",
+    "PricingStructure": "Subscription-based.",
+    "PricingExamples": "Plans start at $29/month.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Paid Plans",
+        "price": "From $29/month",
+        "features": "Higher video generation limits."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Web interface.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 29
+  },
+  {
+    "ModelName": "Runway",
+    "DeveloperCompany": "Runway",
+    "WebsiteURL": "https://runwayml.com/",
+    "PrimaryCategories": [
+      "Video Generation",
+      "Video Editing"
+    ],
+    "BriefDescription": "An AI platform offering features for creators, including video generation and editing.",
+    "KeyFeatures": [
+      "Cheaper entry and features",
+      "Tools for creative video editing and generation"
+    ],
+    "InputDataTypes": [
+      "text",
+      "image",
+      "video"
+    ],
+    "OutputDataTypes": [
+      "video"
+    ],
+    "FreeTierDetails": "125 one-time credits.",
+    "FreeTierLimitations": "Limited one-time free credits.",
+    "PricingStructure": "Subscription-based with credits.",
+    "PricingExamples": "$12/month to $144/month.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Paid Plans",
+        "price": "From $12/month",
+        "features": "Additional credits and higher limits."
+      },
+      {
+        "name": "Additional Credits",
+        "price": null,
+        "features": "Purchase additional credits."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Web interface.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 12
+  },
+  {
+    "ModelName": "ElevenLabs",
+    "DeveloperCompany": "ElevenLabs",
+    "WebsiteURL": "https://elevenlabs.io/",
+    "PrimaryCategories": [
+      "Text-to-Speech",
+      "Speech-to-Speech",
+      "Audio Enhancement",
+      "Translation"
+    ],
+    "BriefDescription": "A market-leading AI platform for voice generation, cloning, and dubbing.",
+    "KeyFeatures": [
+      "High-quality voice generation",
+      "Voice cloning",
+      "Audio dubbing"
+    ],
+    "InputDataTypes": [
+      "text",
+      "audio"
+    ],
+    "OutputDataTypes": [
+      "audio"
+    ],
+    "FreeTierDetails": "10k credits (approximately 10 minutes of audio).",
+    "FreeTierLimitations": "Limited credits per month.",
+    "PricingStructure": "Subscription-based with credit packs.",
+    "PricingExamples": "Starter plan at $5/month with voice cloning.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Starter Plan",
+        "price": "$5/month",
+        "features": "More credits and voice cloning."
+      },
+      {
+        "name": "Higher Plans",
+        "price": null,
+        "features": "More credits and features."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Web interface, API access.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 5
+  },
+  {
+    "ModelName": "Murf",
+    "DeveloperCompany": "Murf",
+    "WebsiteURL": "https://murf.ai/",
+    "PrimaryCategories": [
+      "Text-to-Speech"
+    ],
+    "BriefDescription": "An AI platform for voice generation and narration.",
+    "KeyFeatures": [
+      "Voice generation"
+    ],
+    "InputDataTypes": [
+      "text"
+    ],
+    "OutputDataTypes": [
+      "audio"
+    ],
+    "FreeTierDetails": "10 minutes of voice generation.",
+    "FreeTierLimitations": "Limited free voice generation time.",
+    "PricingStructure": "Subscription-based.",
+    "PricingExamples": "Creator Plan at $29/month for 2 hours/month voice generation.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Creator Plan",
+        "price": "$29/month",
+        "features": "More voice generation time (e.g., 2 hours/month)."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Web interface.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 29
+  },
+  {
+    "ModelName": "AssemblyAI",
+    "DeveloperCompany": "AssemblyAI",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Speech-to-Text",
+      "Audio Analysis"
+    ],
+    "BriefDescription": "An AI platform offering Speech-to-Text transcription and audio intelligence features.",
+    "KeyFeatures": [
+      "Asynchronous and real-time transcription",
+      "Speaker Diarization",
+      "Topic Detection",
+      "Sentiment Analysis",
+      "Automated Punctuation and Casing",
+      "Supports virtually every audio/video format",
+      "Numerous languages supported",
+      "Developer-friendly documentation and SDKs"
+    ],
+    "InputDataTypes": [
+      "audio",
+      "video",
+      "file upload"
+    ],
+    "OutputDataTypes": [
+      "text",
+      "JSON (analysis results)"
+    ],
+    "FreeTierDetails": "Up to 416 free hours for new sign-ups using the API. Free to test in their AI playground.",
+    "FreeTierLimitations": "Free hours limit for new sign-ups. Limited free use in the playground compared to API usage.",
+    "PricingStructure": "Tiered pricing based on usage.",
+    "PricingExamples": "Speech-to-Text at $0.37 per hour, Streaming Speech-to-Text at $0.47 per hour, Specific Speech Understanding pricing varies. Volume pricing available.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Tiered Pricing",
+        "price": "From $0.37/hour",
+        "features": "Transition to tiered pricing based on usage."
+      },
+      {
+        "name": "Volume Pricing",
+        "price": null,
+        "features": "Volume pricing for larger needs."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "API only (primarily) with a web playground for testing.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 20
+  },
+  {
+    "ModelName": "Google Cloud Speech-to-Text",
+    "DeveloperCompany": "Google",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Speech-to-Text"
+    ],
+    "BriefDescription": "Google's cloud-based AI service for converting spoken language to text.",
+    "KeyFeatures": [
+      "High accuracy",
+      "Supports 125+ languages",
+      "Easy integration into applications via API"
+    ],
+    "InputDataTypes": [
+      "audio (must be in Google Cloud Bucket)"
+    ],
+    "OutputDataTypes": [
+      "text"
+    ],
+    "FreeTierDetails": "60 minutes of free transcription. Includes $300 in free credits for Google Cloud Platform (GCP) hosting.",
+    "FreeTierLimitations": "Limited free minutes. Only supports files stored in Google Cloud Buckets. Requires signing up for a GCP account.",
+    "PricingStructure": "Paid pricing based on usage after free limit.",
+    "PricingExamples": "Pricing varies based on usage beyond the free minutes.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Usage-Based Pricing",
+        "price": "Varies",
+        "features": "Pay for transcription based on usage after free minutes."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "API only (primarily). Requires GCP account and setup.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 20
+  },
+  {
+    "ModelName": "AWS Transcribe",
+    "DeveloperCompany": "Amazon Web Services (AWS)",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Speech-to-Text"
+    ],
+    "BriefDescription": "Amazon's AI service for converting speech to text, integrated into the AWS ecosystem.",
+    "KeyFeatures": [
+      "Integrates into the existing AWS ecosystem",
+      "Offers a specific Transcribe Medical API"
+    ],
+    "InputDataTypes": [
+      "audio (must be in Amazon S3 bucket)"
+    ],
+    "OutputDataTypes": [
+      "text"
+    ],
+    "FreeTierDetails": "One hour free per month for the first 12 months of use.",
+    "FreeTierLimitations": "Limited free hours per month. Free tier duration is limited to 12 months. Requires creating an AWS account. Only supports files stored in Amazon S3 buckets.",
+    "PricingStructure": "Tiered pricing based on usage after free limit.",
+    "PricingExamples": "Tiered pricing ranging from $0.02400 to $0.00780 per hour based on usage.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Tiered Pricing",
+        "price": "From $0.00780/hour",
+        "features": "Transition to tiered pricing based on usage after free hours."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "API only (primarily). Requires AWS account and setup.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 20
+  },
+  {
+    "ModelName": "OpenAI Whisper",
+    "DeveloperCompany": "OpenAI",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Speech-to-Text",
+      "Translation"
+    ],
+    "BriefDescription": "An open-source and API-available model for high-accuracy speech-to-text and translation.",
+    "KeyFeatures": [
+      "High accuracy",
+      "Multilingual transcription",
+      "Can be used for translation to English",
+      "Resilient to accents, ambient sound, and terminology",
+      "Multiple model sizes available (v3 mentioned)"
+    ],
+    "InputDataTypes": [
+      "audio",
+      "video file upload"
+    ],
+    "OutputDataTypes": [
+      "text"
+    ],
+    "FreeTierDetails": "Completely free as an open-source model (requires technical setup).",
+    "FreeTierLimitations": "Open-source requires significant computing power and technical expertise for setup and maintenance at scale.",
+    "PricingStructure": "Free (open-source) or pay-as-you-go (API).",
+    "PricingExamples": "API pricing starts at $0.006/minute.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Open-Source (Self-Host)",
+        "price": "Free",
+        "features": "Host the model yourself."
+      },
+      {
+        "name": "API Access",
+        "price": "From $0.006/minute",
+        "features": "Pay-as-you-go API access."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Requires coding/technical setup for open-source, API access available.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 0
+  },
+  {
+    "ModelName": "Qodo",
+    "DeveloperCompany": "Qodo (formerly Codium)",
+    "WebsiteURL": "https://www.qodo.ai/blog/best-ai-coding-assistant-tools/",
+    "PrimaryCategories": [
+      "Code Generation",
+      "Code Debugging",
+      "Code Review",
+      "Code Documentation"
+    ],
+    "BriefDescription": "An AI coding assistant tool offering various features for developers.",
+    "KeyFeatures": [
+      "Test generation",
+      "Coding agent",
+      "Code review",
+      "Auto-documentation"
+    ],
+    "InputDataTypes": [
+      "code"
+    ],
+    "OutputDataTypes": [
+      "code",
+      "text (documentation, review comments)"
+    ],
+    "FreeTierDetails": "Free plan available for individual use.",
+    "FreeTierLimitations": "Access to advanced features like SOC2 compliance and static code analysis are premium paid features.",
+    "PricingStructure": "Subscription-based.",
+    "PricingExamples": "Team plan is $15 per user per month.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Team Plan",
+        "price": "$15/user/month",
+        "features": "Access to advanced features."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "IDE integration (implied).",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 15
+  },
+  {
+    "ModelName": "GitHub Copilot",
+    "DeveloperCompany": "GitHub, in collaboration with OpenAI and Microsoft",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Code Generation",
+      "Code Completion",
+      "Code Review"
+    ],
+    "BriefDescription": "An AI coding assistant providing code suggestions and chat functionality, integrated with popular IDEs.",
+    "KeyFeatures": [
+      "AI code suggestions",
+      "Chat functionality",
+      "Integrates with popular IDEs like Visual Studio and VS Code"
+    ],
+    "InputDataTypes": [
+      "code",
+      "text"
+    ],
+    "OutputDataTypes": [
+      "code",
+      "text"
+    ],
+    "FreeTierDetails": "Free for individual developers for the basic plan.",
+    "FreeTierLimitations": "Includes basic AI code suggestions and chat. Advanced features like GitHub Codespaces access and multi-user review assignment are in the paid plan. Note: ZDNET review mentioned code quality inconsistencies with VS Code extensions in 2025.",
+    "PricingStructure": "Subscription-based.",
+    "PricingExamples": "Team plan is $4 per user per month.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Team Plan",
+        "price": "$4/user/month",
+        "features": "Access to advanced features, GitHub Codespaces access, multi-user review assignment."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "IDE integration.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 4
+  },
+  {
+    "ModelName": "Tabnine",
+    "DeveloperCompany": "Tabnine",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Code Generation",
+      "Code Completion"
+    ],
+    "BriefDescription": "An AI coding assistant focused on essential code completion and basic AI chat.",
+    "KeyFeatures": [
+      "Essential code completion",
+      "Basic AI-powered chat"
+    ],
+    "InputDataTypes": [
+      "code",
+      "text"
+    ],
+    "OutputDataTypes": [
+      "code",
+      "text"
+    ],
+    "FreeTierDetails": "Basic AI coding assistant is free to use.",
+    "FreeTierLimitations": "Limited to essential features. Lacks advanced features available in paid versions.",
+    "PricingStructure": "Subscription-based.",
+    "PricingExamples": "Pro plan is $9 per user per month.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Pro Plan",
+        "price": "$9/user/month",
+        "features": "Access to advanced features."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "IDE integration.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 9
+  },
+  {
+    "ModelName": "Codeium",
+    "DeveloperCompany": "Codeium",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Code Generation",
+      "Code Completion",
+      "Code Search"
+    ],
+    "BriefDescription": "An AI coding tool providing autocomplete, chat, and search capabilities across numerous languages.",
+    "KeyFeatures": [
+      "AI autocomplete",
+      "AI chat",
+      "AI search across 70+ languages",
+      "Basic indexing"
+    ],
+    "InputDataTypes": [
+      "code",
+      "text"
+    ],
+    "OutputDataTypes": [
+      "code",
+      "text"
+    ],
+    "FreeTierDetails": "Free version available for individuals.",
+    "FreeTierLimitations": "Free version includes core features but advanced context-aware suggestions and pro features using advanced AI models require a subscription. Basic indexing may be limited for large codebases.",
+    "PricingStructure": "Subscription-based.",
+    "PricingExamples": "Paid versions available (pricing not detailed in provided text).",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Paid Versions",
+        "price": "Varies",
+        "features": "Advanced features and context-aware suggestions."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "IDE integration.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 20
+  },
+  {
+    "ModelName": "Amazon CodeWhisperer",
+    "DeveloperCompany": "Amazon",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Code Generation",
+      "Code Completion"
+    ],
+    "BriefDescription": "Amazon's AI coding companion providing code suggestions.",
+    "KeyFeatures": [
+      "AI code suggestions"
+    ],
+    "InputDataTypes": [
+      "code"
+    ],
+    "OutputDataTypes": [
+      "code"
+    ],
+    "FreeTierDetails": "Free plan available for individuals, perfect for personal projects or occasional use.",
+    "FreeTierLimitations": "Lacks some advanced features available in the professional version.",
+    "PricingStructure": "Subscription-based.",
+    "PricingExamples": "Professional plan starts at $15 per month.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Professional Plan",
+        "price": "$15/month",
+        "features": "Access to advanced features."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "IDE integration.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 15
+  },
+  {
+    "ModelName": "AskCodi",
+    "DeveloperCompany": "AskCodi",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Code Generation",
+      "Code Explanations"
+    ],
+    "BriefDescription": "An AI tool assisting with code generation and explanations.",
+    "KeyFeatures": null,
+    "InputDataTypes": [
+      "text"
+    ],
+    "OutputDataTypes": [
+      "code",
+      "text"
+    ],
+    "FreeTierDetails": "Free for personal use.",
+    "FreeTierLimitations": "Limited in some aspects compared to paid plans. Monthly subscription for full access might be costly for some users.",
+    "PricingStructure": "Subscription-based.",
+    "PricingExamples": "Premium plan at $14.99/month; Ultimate plan at $34.99/month.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Premium Plan",
+        "price": "$14.99/month",
+        "features": "Full access."
+      },
+      {
+        "name": "Ultimate Plan",
+        "price": "$34.99/month",
+        "features": "Full access."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": null,
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 15
+  },
+  {
+    "ModelName": "Codiga",
+    "DeveloperCompany": "Codiga",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Code Analysis",
+      "Code Review"
+    ],
+    "BriefDescription": "An AI tool for code analysis and review.",
+    "KeyFeatures": null,
+    "InputDataTypes": [
+      "code"
+    ],
+    "OutputDataTypes": [
+      "text (analysis reports, review comments)"
+    ],
+    "FreeTierDetails": "Individual plan offered for free.",
+    "FreeTierLimitations": "Limited language compatibility with the free plan.",
+    "PricingStructure": "Subscription-based.",
+    "PricingExamples": "Paid subscription begins at $14 per month.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Paid Subscription",
+        "price": "From $14/month",
+        "features": "Wider language compatibility."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "IDE integration (implied).",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 14
+  },
+  {
+    "ModelName": "Replit",
+    "DeveloperCompany": "Replit",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Code Generation",
+      "Code Development Environment"
+    ],
+    "BriefDescription": "An online platform with an AI coding assistant and development environment.",
+    "KeyFeatures": [
+      "Online development environment",
+      "AI coding assistance"
+    ],
+    "InputDataTypes": [
+      "text",
+      "code"
+    ],
+    "OutputDataTypes": [
+      "code",
+      "running programs"
+    ],
+    "FreeTierDetails": "Free for individual usage.",
+    "FreeTierLimitations": "Limitations compared to paid plans (specifics not detailed beyond individual use). Dependency on internet connection is a drawback.",
+    "PricingStructure": "Subscription-based.",
+    "PricingExamples": "Hacker plan at $7 per month; Pro plan with advanced features priced at $20 per month.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Hacker Plan",
+        "price": "$7/month",
+        "features": "Access to advanced features."
+      },
+      {
+        "name": "Pro Plan",
+        "price": "$20/month",
+        "features": "Access to advanced features."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Web interface.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 7
+  },
+  {
+    "ModelName": "CodeT5",
+    "DeveloperCompany": "CodeT5 (a model)",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Code Generation"
+    ],
+    "BriefDescription": "A freely available open-source model for code generation.",
+    "KeyFeatures": null,
+    "InputDataTypes": [
+      "text"
+    ],
+    "OutputDataTypes": [
+      "code"
+    ],
+    "FreeTierDetails": "Freely available for use as a model.",
+    "FreeTierLimitations": "Accessibility might not be as wide as other tools. May have efficiency gaps compared to tools like Copilot or Codex.",
+    "PricingStructure": "Free.",
+    "PricingExamples": null,
+    "PaidOptionsAfterFree": [],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Requires technical setup and coding to integrate/use.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 0
+  },
+  {
+    "ModelName": "OpenAI Codex",
+    "DeveloperCompany": "OpenAI",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Code Generation",
+      "Code Completion"
+    ],
+    "BriefDescription": "An OpenAI model for code generation and completion.",
+    "KeyFeatures": null,
+    "InputDataTypes": [
+      "text",
+      "code"
+    ],
+    "OutputDataTypes": [
+      "code"
+    ],
+    "FreeTierDetails": "No explicit free tier mentioned.",
+    "FreeTierLimitations": null,
+    "PricingStructure": "Pay-as-you-go (token usage).",
+    "PricingExamples": "Price is calculated based on API usage (token usage). Can be costly for some users.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "API Access",
+        "price": "Token-based",
+        "features": "Continue using via API with token-based pricing."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "API only.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 100
+  },
+  {
+    "ModelName": "Sourcegraph Cody",
+    "DeveloperCompany": "Sourcegraph",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Code Generation",
+      "Code Search",
+      "Code Explanation"
+    ],
+    "BriefDescription": "An AI assistant for developers, integrated into Sourcegraph.",
+    "KeyFeatures": null,
+    "InputDataTypes": [
+      "code",
+      "text"
+    ],
+    "OutputDataTypes": [
+      "code",
+      "text"
+    ],
+    "FreeTierDetails": "Free version available for individual developers.",
+    "FreeTierLimitations": "Specific limitations compared to paid plans are not detailed, although the free version is noted to \"work well\" for individuals.",
+    "PricingStructure": "Subscription-based.",
+    "PricingExamples": "Pro plan at $9 per month; Enterprise plan at $15 per user/month.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Pro Plan",
+        "price": "$9/month",
+        "features": "Access to additional features."
+      },
+      {
+        "name": "Enterprise Plan",
+        "price": "$15/user/month",
+        "features": "Access to additional features."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "IDE integration (implied).",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 9
+  },
+  {
+    "ModelName": "DeepCode AI",
+    "DeveloperCompany": "DeepCode AI by Snyk",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Code Analysis",
+      "Code Review"
+    ],
+    "BriefDescription": "An AI tool for code analysis, integrated with Snyk's platform.",
+    "KeyFeatures": null,
+    "InputDataTypes": [
+      "code"
+    ],
+    "OutputDataTypes": [
+      "text (analysis reports, review comments)"
+    ],
+    "FreeTierDetails": "Free plan available.",
+    "FreeTierLimitations": "Specific limitations of the free plan are not detailed. Subscription fee for the team plan might be too high for some users.",
+    "PricingStructure": "Subscription-based.",
+    "PricingExamples": "Paid plans available starting at $25 per month for the Teams plan; Enterprise plan has customized pricing.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Teams Plan",
+        "price": "From $25/month",
+        "features": "Access to team features."
+      },
+      {
+        "name": "Enterprise Plan",
+        "price": "Custom pricing",
+        "features": "Access to enterprise features."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Integrated into Snyk's platform and IDE extensions.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 25
+  },
+  {
+    "ModelName": "Figstack",
+    "DeveloperCompany": "Figstack",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Code Analysis",
+      "Code Explanation"
+    ],
+    "BriefDescription": "An AI tool for code analysis.",
+    "KeyFeatures": null,
+    "InputDataTypes": [
+      "code"
+    ],
+    "OutputDataTypes": [
+      "text"
+    ],
+    "FreeTierDetails": "Free to use with limited free credits.",
+    "FreeTierLimitations": "Offers limited free credits, which may not be sufficient for users with larger or more complex projects. Requires internet access. Many advanced capabilities are behind paid plans.",
+    "PricingStructure": "Freemium with paid plans.",
+    "PricingExamples": "Paid plans available (pricing not detailed in provided text).",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Paid Plans",
+        "price": "Varies",
+        "features": "More credits and advanced capabilities."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "IDE integration (implied).",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 20
+  },
+  {
+    "ModelName": "IntelliCode",
+    "DeveloperCompany": "Microsoft",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Code Completion"
+    ],
+    "BriefDescription": "Microsoft's AI-assisted code completion tool.",
+    "KeyFeatures": null,
+    "InputDataTypes": [
+      "code"
+    ],
+    "OutputDataTypes": [
+      "code"
+    ],
+    "FreeTierDetails": "Completely free to use in Visual Studio Code.",
+    "FreeTierLimitations": "No specific free tier limitations mentioned as it is completely free. Performance issues with large codebases are a potential drawback regardless of cost.",
+    "PricingStructure": "Free.",
+    "PricingExamples": null,
+    "PaidOptionsAfterFree": [],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Integrated into Visual Studio and VS Code extensions.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 0
+  },
+  {
+    "ModelName": "CodeGeeX",
+    "DeveloperCompany": "CodeGeeX",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Code Generation",
+      "Code Completion"
+    ],
+    "BriefDescription": "An AI coding assistant available as a free plugin.",
+    "KeyFeatures": null,
+    "InputDataTypes": [
+      "code",
+      "text"
+    ],
+    "OutputDataTypes": [
+      "code",
+      "text"
+    ],
+    "FreeTierDetails": "Free plugin version available, noted as sufficient for individual development needs.",
+    "FreeTierLimitations": "Some advanced features are only available through the paid plan.",
+    "PricingStructure": "Freemium with Enterprise plan.",
+    "PricingExamples": "Enterprise plan available (pricing not detailed in provided text).",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Enterprise Plan",
+        "price": "Varies",
+        "features": "Access to advanced features."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "IDE integration.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 20
+  },
+  {
+    "ModelName": "Perplexity AI",
+    "DeveloperCompany": "Perplexity.AI",
+    "WebsiteURL": "https://www.perplexity.ai/",
+    "PrimaryCategories": [
+      "Research",
+      "Q&A (Question & Answer)",
+      "Text Generation"
+    ],
+    "BriefDescription": "A research-focused AI tool providing citation-backed answers.",
+    "KeyFeatures": [
+      "Research-focused",
+      "Citation included",
+      "Does well enough in free version for many uses (coding included)"
+    ],
+    "InputDataTypes": [
+      "text",
+      "URL"
+    ],
+    "OutputDataTypes": [
+      "text"
+    ],
+    "FreeTierDetails": "Free version available.",
+    "FreeTierLimitations": "Limited to GPT-3.5 and throttles prompt results on the free version.",
+    "PricingStructure": "Freemium with subscription.",
+    "PricingExamples": "Pro plan at $20/month for faster, better results.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Pro Plan",
+        "price": "$20/month",
+        "features": "Faster, better results and higher limits."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Web interface.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 20
+  },
+  {
+    "ModelName": "Microsoft Copilot",
+    "DeveloperCompany": "Microsoft",
+    "WebsiteURL": "https://copilot.microsoft",
+    "PrimaryCategories": [
+      "Content Generation",
+      "Q&A (Question & Answer)",
+      "Code Generation"
+    ],
+    "BriefDescription": "Microsoft's AI assistant with broad capabilities, including coding assistance.",
+    "KeyFeatures": null,
+    "InputDataTypes": [
+      "text"
+    ],
+    "OutputDataTypes": [
+      "text",
+      "code"
+    ],
+    "FreeTierDetails": "Free basic Copilot version available.",
+    "FreeTierLimitations": "The basic free version performs well but lacks features available in numerous paid Copilot programs.",
+    "PricingStructure": "Freemium with multiple paid license options.",
+    "PricingExamples": "Fees for other Copilot licenses can get pricey (specific prices not detailed in provided text).",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Various Paid Licenses",
+        "price": "Varies (can be pricey)",
+        "features": "Additional features and capabilities depending on license."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Web interface, integrated into Microsoft products.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 100
+  },
+  {
+    "ModelName": "Domo",
+    "DeveloperCompany": "Domo",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Data Analysis",
+      "Data Visualization",
+      "Prediction"
+    ],
+    "BriefDescription": "An end-to-end data platform with an AI service layer for enhanced data analysis.",
+    "KeyFeatures": [
+      "End-to-end data platform",
+      "AI service layer",
+      "AI-enhanced data exploration",
+      "AI model creation/training/integration",
+      "Built-in governance and usage analytics",
+      "Intelligent chat for data querying",
+      "Pre-built AI models for forecasting and sentiment analysis"
+    ],
+    "InputDataTypes": [
+      "data file upload (.csv, etc.)",
+      "API call",
+      "various data sources"
+    ],
+    "OutputDataTypes": [
+      "text (analysis results)",
+      "chart",
+      "visualizations"
+    ],
+    "FreeTierDetails": "Free trial available.",
+    "FreeTierLimitations": "Limitations of the free trial are not detailed in the provided content.",
+    "PricingStructure": "Pricing structure is not explicitly detailed but noted as potentially high cost.",
+    "PricingExamples": null,
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Paid Plans",
+        "price": "Varies (potentially high cost)",
+        "features": "Transition to paid plans after the free trial."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Platform with web interface.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 500
+  },
+  {
+    "ModelName": "Microsoft Power BI",
+    "DeveloperCompany": "Microsoft",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Data Analysis",
+      "Data Visualization"
+    ],
+    "BriefDescription": "Microsoft's business intelligence tool with AI integration for data analysis and visualization.",
+    "KeyFeatures": [
+      "Data visualization and business intelligence",
+      "Integrates with Microsoft Office suite",
+      "Scales for large datasets",
+      "Native integrations like Azure Machine Learning"
+    ],
+    "InputDataTypes": [
+      "data file upload (.csv, Excel, etc.)",
+      "various data sources"
+    ],
+    "OutputDataTypes": [
+      "chart",
+      "visualizations",
+      "reports"
+    ],
+    "FreeTierDetails": "Microsoft typically offers trial periods for their services (not explicitly detailed as a free trial in the text).",
+    "FreeTierLimitations": null,
+    "PricingStructure": "Subscription-based with different tiers (Pro, Premium).",
+    "PricingExamples": "Can become costly with premium features (specific details not in provided text).",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Paid Plans (Pro, Premium)",
+        "price": "Varies (can be costly)",
+        "features": "Upgrade after trial for advanced AI features and higher limits."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Application and web interface.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 100
+  },
+  {
+    "ModelName": "Tableau",
+    "DeveloperCompany": "Salesforce (parent company)",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Data Analysis",
+      "Data Visualization"
+    ],
+    "BriefDescription": "A data visualization and business intelligence platform leveraging AI models.",
+    "KeyFeatures": [
+      "Advanced visualizations",
+      "Drag-and-drop interface",
+      "Tableau GPT",
+      "Tableau Pulse",
+      "Leverages AI models from Salesforce and OpenAI"
+    ],
+    "InputDataTypes": [
+      "data file upload",
+      "various data sources"
+    ],
+    "OutputDataTypes": [
+      "chart",
+      "visualizations",
+      "reports"
+    ],
+    "FreeTierDetails": "Tableau Public is a free option with limitations.",
+    "FreeTierLimitations": "Tableau Public requires data to be public and has fewer features. Free trials for paid products are common but not explicitly detailed for AI features in the provided text.",
+    "PricingStructure": "High cost for enterprise versions. Offers various products with different pricing.",
+    "PricingExamples": null,
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Paid Products (Desktop, Server, Cloud)",
+        "price": "Varies (can be high cost)",
+        "features": "Explore paid products after utilizing Tableau Public or free trials."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Application and web interface.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 500
+  },
+  {
+    "ModelName": "Polymer",
+    "DeveloperCompany": "Polymer",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Data Analysis",
+      "Data Visualization"
+    ],
+    "BriefDescription": "An AI tool that simplifies data analysis and converts spreadsheets to searchable databases.",
+    "KeyFeatures": [
+      "Simplifies data analysis",
+      "Converts spreadsheets to searchable databases",
+      "AI for identifying patterns and relationships",
+      "Provides insightful visualizations and analytics"
+    ],
+    "InputDataTypes": [
+      "data file upload (spreadsheets)"
+    ],
+    "OutputDataTypes": [
+      "text (analysis results)",
+      "chart",
+      "visualizations"
+    ],
+    "FreeTierDetails": "Not explicitly mentioned, but a trial or lower-cost tier is probable given it's cost-effective for smaller teams.",
+    "FreeTierLimitations": null,
+    "PricingStructure": "Described as cost-effective for small to medium-sized teams. Specific pricing tiers not provided.",
+    "PricingExamples": null,
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Paid Plans",
+        "price": "Varies (cost-effective for small/medium teams)",
+        "features": "Explore paid plans after potential trial or free tier."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Web interface.",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 50
+  },
+  {
+    "ModelName": "Julius AI",
+    "DeveloperCompany": "Julius AI",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Data Analysis",
+      "Data Visualization",
+      "Prediction"
+    ],
+    "BriefDescription": "An AI data analyst tool for analyzing, visualizing, and interacting with data.",
+    "KeyFeatures": [
+      "AI data analyst",
+      "Analyze and visualize data",
+      "Chat with data",
+      "Create graphs",
+      "Build forecasting models"
+    ],
+    "InputDataTypes": [
+      "data file upload"
+    ],
+    "OutputDataTypes": [
+      "text (analysis results)",
+      "chart",
+      "visualizations"
+    ],
+    "FreeTierDetails": "Not mentioned in the provided snippet. Most AI tools for data analysis offer trials.",
+    "FreeTierLimitations": null,
+    "PricingStructure": "Not mentioned in the provided snippet.",
+    "PricingExamples": null,
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Paid Plans",
+        "price": "Varies",
+        "features": "Explore paid plans after potential trial or free tier."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Web interface (implied).",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 50
+  },
+  {
+    "ModelName": "Powerdrill AI",
+    "DeveloperCompany": "Powerdrill AI",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Data Analysis"
+    ],
+    "BriefDescription": "An AI data analysis tool.",
+    "KeyFeatures": [
+      "AI Data Analysis"
+    ],
+    "InputDataTypes": [
+      "data file upload"
+    ],
+    "OutputDataTypes": [
+      "text (analysis results)"
+    ],
+    "FreeTierDetails": "Not mentioned in the provided snippet. Free trials or tiers are common for such tools.",
+    "FreeTierLimitations": null,
+    "PricingStructure": "Not mentioned in the provided snippet.",
+    "PricingExamples": null,
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Paid Plans",
+        "price": "Varies",
+        "features": "Explore paid plans after potential trial or free tier."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": null,
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 50
+  },
+  {
+    "ModelName": "Tidio AI",
+    "DeveloperCompany": "Tidio",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Customer Service"
+    ],
+    "BriefDescription": "An AI tool for customer service.",
+    "KeyFeatures": null,
+    "InputDataTypes": null,
+    "OutputDataTypes": null,
+    "FreeTierDetails": "Free 7-day trial.",
+    "FreeTierLimitations": "Trial duration limited to 7 days.",
+    "PricingStructure": "Subscription-based.",
+    "PricingExamples": "Starter $29/month.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Starter Plan",
+        "price": "$29/month",
+        "features": "Access to full features after trial."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": null,
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 29
+  },
+  {
+    "ModelName": "Hiver",
+    "DeveloperCompany": "Hiver",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Customer Service"
+    ],
+    "BriefDescription": "An AI-enhanced shared inbox and customer service platform.",
+    "KeyFeatures": null,
+    "InputDataTypes": null,
+    "OutputDataTypes": null,
+    "FreeTierDetails": "Free basic plan available.",
+    "FreeTierLimitations": "Basic features only on the free plan.",
+    "PricingStructure": "Subscription-based.",
+    "PricingExamples": "Lite $24/user/month.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Lite Plan",
+        "price": "$24/user/month",
+        "features": "Access to more features."
+      },
+      {
+        "name": "Higher Paid Plans",
+        "price": null,
+        "features": "Access to more features."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": null,
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 24
+  },
+  {
+    "ModelName": "Harvey",
+    "DeveloperCompany": "Harvey",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Legal Assistance"
+    ],
+    "BriefDescription": "A premium AI tool specifically for legal tasks.",
+    "KeyFeatures": null,
+    "InputDataTypes": null,
+    "OutputDataTypes": null,
+    "FreeTierDetails": null,
+    "FreeTierLimitations": null,
+    "PricingStructure": "Premium, pricing on request.",
+    "PricingExamples": "Pricing on request.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Premium Plan",
+        "price": "Pricing on request",
+        "features": "Access to premium legal AI features."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": null,
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 500
+  },
+  {
+    "ModelName": "n8n",
+    "DeveloperCompany": "n8n",
+    "WebsiteURL": "https://n8n.io/",
+    "PrimaryCategories": [
+      "Task Automation"
+    ],
+    "BriefDescription": "A workflow automation tool supporting self-hosted options with a free tier.",
+    "KeyFeatures": [
+      "Workflow automation",
+      "Self-hosted option"
+    ],
+    "InputDataTypes": [
+      "API call",
+      "various application data"
+    ],
+    "OutputDataTypes": [
+      "API call",
+      "various application data"
+    ],
+    "FreeTierDetails": "Self-hosted version available for free.",
+    "FreeTierLimitations": "Self-hosted requires technical setup and maintenance. Paid plans for cloud hosting have limits.",
+    "PricingStructure": "Freemium (self-hosted free) and subscription (cloud).",
+    "PricingExamples": "Paid from €20/month.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Paid Cloud Plans",
+        "price": "From €20/month",
+        "features": "Cloud hosting options."
+      },
+      {
+        "name": "Self-Hosted Version",
+        "price": "Free",
+        "features": "Self-hosted version for cost-effective scalability."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": "Web interface (cloud), requires technical setup (self-hosted).",
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 0
+  },
+  {
+    "ModelName": "Reclaim",
+    "DeveloperCompany": "Reclaim",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Scheduling"
+    ],
+    "BriefDescription": "An AI tool assisting with scheduling and time management.",
+    "KeyFeatures": null,
+    "InputDataTypes": null,
+    "OutputDataTypes": null,
+    "FreeTierDetails": "Free tier available.",
+    "FreeTierLimitations": null,
+    "PricingStructure": "Freemium with starter plan.",
+    "PricingExamples": "Starter plan priced from $6.75/month.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Starter Plan",
+        "price": "From $6.75/month",
+        "features": "Access to additional features."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": null,
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 7
+  },
+  {
+    "ModelName": "Clockwise",
+    "DeveloperCompany": "Clockwise",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Scheduling"
+    ],
+    "BriefDescription": "An AI tool assisting with scheduling and time management.",
+    "KeyFeatures": null,
+    "InputDataTypes": null,
+    "OutputDataTypes": null,
+    "FreeTierDetails": "Free tier available.",
+    "FreeTierLimitations": null,
+    "PricingStructure": "Freemium with starter plan.",
+    "PricingExamples": "Starter plan priced from $10/month.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Starter Plan",
+        "price": "From $10/month",
+        "features": "Access to additional features."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": null,
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 10
+  },
+  {
+    "ModelName": "ClickUp",
+    "DeveloperCompany": "ClickUp",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Project Management"
+    ],
+    "BriefDescription": "A project management tool with AI features.",
+    "KeyFeatures": [
+      "Project management features",
+      "AI features available in paid plans"
+    ],
+    "InputDataTypes": null,
+    "OutputDataTypes": null,
+    "FreeTierDetails": "Free basic plan available.",
+    "FreeTierLimitations": "Basic plan lacks paid AI features.",
+    "PricingStructure": "Freemium with paid AI features.",
+    "PricingExamples": "Paid AI features start at ~$10/month/user.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Paid Plans (with AI features)",
+        "price": "Starting at ~$10/user/month",
+        "features": "Access to AI features."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": null,
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 10
+  },
+  {
+    "ModelName": "Asana",
+    "DeveloperCompany": "Asana",
+    "WebsiteURL": null,
+    "PrimaryCategories": [
+      "Project Management"
+    ],
+    "BriefDescription": "A project management tool with AI features.",
+    "KeyFeatures": [
+      "Project management features",
+      "AI features available in paid plans"
+    ],
+    "InputDataTypes": null,
+    "OutputDataTypes": null,
+    "FreeTierDetails": "Free basic plan available.",
+    "FreeTierLimitations": "Basic plan lacks paid AI features.",
+    "PricingStructure": "Freemium with paid AI features.",
+    "PricingExamples": "Paid AI features start at ~$13.49/month/user.",
+    "PaidOptionsAfterFree": [
+      {
+        "name": "Paid Plans (with AI features)",
+        "price": "Starting at ~$13.49/user/month",
+        "features": "Access to AI features."
+      }
+    ],
+    "PerformanceMetrics": null,
+    "EaseOfUse": null,
+    "LastDataVerificationDate": "2025-05-22",
+    "MaxBudget": 14
+  }
+]
+
